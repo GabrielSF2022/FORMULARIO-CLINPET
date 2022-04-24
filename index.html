@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario ClinPet</title>
+    <script src="https://kit.fontawesome.com/5dc0840e04.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <main>
+        <img src="./images/pet-image.png" alt="logo-pets">
+        <h1>Cadastar Pet </h1>
+
+        <form>
+            <div class="inputs">
+                <input class="name" type="text" placeholder="Nome do Pet">
+                <input class="idade" type="number" placeholder="Idade">
+            </div>
+            
+            <input class="email" type="email" placeholder="Email do responsável">
+
+            <p>Espécie</p>
+
+            <div class="radios">
+
+                <span>
+                    <input type="radio" id="canino" name="especie">
+                    <label for="canino">Canino</label>
+
+                </span>
+                <span>
+                    <input type="radio" id="felino" name="especie">
+                    <label for="felino">Felino</label>
+                </span>
+
+            </div>
+
+            <p>Porte</p>
+
+            <div class="radios">
+                <span>
+                    <input type="radio" id="pequeno" name="porte">
+                    <label for="pequeno">Pequeno</label>
+                </span>
+                <span>
+                    <input type="radio" id="medio" name="porte">
+                    <label for="medio">Médio</label>
+                </span>
+                <span>
+                    <input type="radio" id="grande" name="porte">
+                    <label for="grande">Grande</label>
+                </span>
+     
+            </div>
+
+            <button>Cadastrar</button>
+        </form>
+    </main>
+
+
+</body>
+</html>
