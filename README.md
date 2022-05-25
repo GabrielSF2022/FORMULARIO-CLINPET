@@ -7,7 +7,9 @@
 
 ![Formulario ClinPet - Google Chrome 2022-04-24 15-36-28](https://user-images.githubusercontent.com/97768716/164991421-15eebdd5-1f2f-4a05-aa9e-318eaac398f6.gif)
 
-  
+  <h2 align="center">
+  <a href="https://gabrielsf2022.github.io/FORMULARIO-CLINPET/" target="_blank"> Veja o site </a>
+</h2>
 
 
 <h2 align="center"> FERRAMENTAS USADAS </h2>
