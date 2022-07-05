@@ -59,6 +59,8 @@ input{
     width: 65%;
 }
 
+
+
 .idade{
     width: 32%;
 }
@@ -69,7 +71,7 @@ input{
 
 .radios{
     display: grid;
-   grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);
 }
 
 p{
